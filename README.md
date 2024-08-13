@@ -1,1 +1,1 @@
-# Reconociemineto-de-numeros-con-NMIST
+Reconocer dígitos escritos a mano. Para este tutorial, utilizaremos el conjunto de datos MNIST
